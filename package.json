@@ -1,0 +1,13 @@
+{
+  "name": "blockchain-network",
+  "version": "1.0.0",
+  "description": "Health Blockchain",
+  "main": "test.js",
+  "repository": "https://github.com/gabrielgaava/blockchain-network.git",
+  "author": "gabrielgaava <gabrielgava@estudioddr.dev>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
+}
